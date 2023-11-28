@@ -32,7 +32,14 @@
           start: "2023-11-28T01:00:00",
           end: "2023-11-28T02:00:00",
           resourceId: 'b',
-      }
+      },
+      {
+        id: 'h',
+        title: 'Mr. Ajay Surage',
+        start: "2023-11-28T01:00:00",
+        end: "2023-11-28T02:00:00",
+        resourceId: 'c',
+    }
       ];
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
