@@ -39,7 +39,14 @@
         start: "2023-11-28T03:00:00",
         end: "2023-11-28T04:00:00",
         resourceId: 'b',
-    }
+    },
+    {
+      id: 'c',
+      title: 'Mr. nilanshu',
+      start: "2023-11-28T03:00:00",
+      end: "2023-11-28T04:00:00",
+      resourceId: 'c',
+  }
       ];
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
