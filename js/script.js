@@ -39,7 +39,14 @@
         start: "2023-11-28T03:00:00",
         end: "2023-11-28T04:00:00",
         resourceId: 'b',
-    }
+    },
+    {
+      id: 'd',
+      title: 'Mr. Arpt baba',
+      start: "2023-11-28T03:00:00",
+      end: "2023-11-28T04:00:00",
+      resourceId: 'd',
+  }
       ];
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
