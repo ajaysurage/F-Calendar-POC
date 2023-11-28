@@ -32,7 +32,14 @@
           start: "2023-11-28T01:00:00",
           end: "2023-11-28T02:00:00",
           resourceId: 'b',
-      }
+      },
+      {
+        id: 'c',
+        title: 'Mr. Chandan',
+        start: "2023-11-28T03:00:00",
+        end: "2023-11-28T04:00:00",
+        resourceId: 'b',
+    }
       ];
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
