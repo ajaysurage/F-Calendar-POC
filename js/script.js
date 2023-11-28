@@ -50,7 +50,14 @@
       start: "2023-11-28T03:00:00",
       end: "2023-11-28T04:00:00",
       resourceId: 'd',
-  }
+  },
+  {
+    id: 'e',
+    title: 'Sandeep Tomar',
+    start: "2023-11-28T06:00:00",
+    end: "2023-11-28T08:00:00",
+    resourceId: 'b',
+}
       ];
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
